@@ -37,6 +37,8 @@ Output:
 
 Impossible to build a triangle
 
+---
+
 # 📦 Requirements
 
 Python 3+
@@ -45,10 +47,14 @@ No external libraries
 
 Works in terminal (CLI)
 
+---
+
 # 📁 File Structure
 
 triangle.py       # The main script
 README.md         # You're reading this file!
+
+---
 
 # ✍️ Author
 
