@@ -51,7 +51,7 @@ Works in terminal (CLI)
 # 📁 File Structure
 
 <pre>triangle.py       # The main script</pre>
-README.md         # You're reading this file!
+<pre>README.md         # You're reading this file!</pre>
 
 ---
 
