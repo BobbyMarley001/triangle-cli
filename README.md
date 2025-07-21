@@ -10,7 +10,6 @@ If possible, it prints the triangle aligned nicely. If not, it shows an error.
 
 ### Run the script:
 
-```bash
 python triangle.py <number>
 
 # Example: 1
