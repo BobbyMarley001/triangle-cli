@@ -50,7 +50,7 @@ Works in terminal (CLI)
 
 # 📁 File Structure
 
-triangle.py       # The main script
+<pre>triangle.py       # The main script</pre>
 README.md         # You're reading this file!
 
 ---
